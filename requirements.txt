@@ -1,0 +1,4 @@
+# file to help load libraries faster when in venv.
+
+colorama
+prompt-toolkit

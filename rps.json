@@ -1,0 +1,334 @@
+App starting up.Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.App starting up.
+Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+John has logged in.
+New game starting between John vs Computer.
+John roll rock and Computer roll scissors.
+John takes the round!
+Score is John: 1 and Computer: 0.
+John roll rock and Computer roll fire.
+John takes the round!
+Score is John: 2 and Computer: 0.
+John roll rock and Computer roll water.
+Computer takes the round!
+Score is John: 2 and Computer: 1.
+John roll rock and Computer roll water.
+Computer takes the round!
+Score is John: 2 and Computer: 2.
+John roll sponge and Computer roll scissors.
+Computer takes the round!
+Score is John: 2 and Computer: 3.
+Computer wins the game!
+GAME OVER!
+App is starting up..... 
+Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+Caitlin has logged in.
+New game starting between Caitlin vs Computer.
+Caitlin roll rock and Computer roll rock.
+This round was a tie!
+Score is Caitlin: 0 and Computer: 0.
+Caitlin roll rock and Computer roll air.
+Computer takes the round!
+Score is Caitlin: 0 and Computer: 1.
+Caitlin roll rock and Computer roll rock.
+This round was a tie!
+Score is Caitlin: 0 and Computer: 1.
+Caitlin roll rock and Computer roll scissors.
+Caitlin takes the round!
+Score is Caitlin: 1 and Computer: 1.
+Caitlin roll rock and Computer roll paper.
+Computer takes the round!
+Score is Caitlin: 1 and Computer: 2.
+Caitlin roll rock and Computer roll sponge.
+Caitlin takes the round!
+Score is Caitlin: 2 and Computer: 2.
+Caitlin roll rock and Computer roll rock.
+This round was a tie!
+Score is Caitlin: 2 and Computer: 2.
+Caitlin roll rock and Computer roll sponge.
+Caitlin takes the round!
+Score is Caitlin: 3 and Computer: 2.
+Caitlin wins the game!
+GAME OVER!
+App is starting up..... 
+Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+App is starting up..... 
+Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+John has logged in.
+New game starting between John vs Computer.
+John roll rock and Computer roll fire.
+John takes the round!
+Score is John: 1 and Computer: 0.
+John roll paper and Computer roll fire.
+Computer takes the round!
+Score is John: 1 and Computer: 1.
+John roll scissors and Computer roll air.
+John takes the round!
+Score is John: 2 and Computer: 1.
+John roll sponge and Computer roll scissors.
+Computer takes the round!
+Score is John: 2 and Computer: 2.
+John roll air and Computer roll air.
+This round was a tie!
+Score is John: 2 and Computer: 2.
+John roll scissors and Computer roll sponge.
+John takes the round!
+Score is John: 3 and Computer: 2.
+John wins the game!
+GAME OVER!
+App is starting up..... 
+Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+John has logged in.
+New game starting between John vs Computer.
+John roll rock and Computer roll sponge.
+John takes the round!
+Score is John: 1 and Computer: 0.
+John roll rock and Computer roll air.
+Computer takes the round!
+Score is John: 1 and Computer: 1.
+John roll scissors and Computer roll fire.
+Computer takes the round!
+Score is John: 1 and Computer: 2.
+John roll fire and Computer roll air.
+Computer takes the round!
+Score is John: 1 and Computer: 3.
+Computer wins the game!
+GAME OVER!
+[2025-04-28T20:37:24.455241]App is starting up..... 
+[2025-04-28T20:37:24.455888]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]John roll rock and Computer roll scissors.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 1 and Computer: 0.
+[2025-04-28]John roll rock and Computer roll scissors.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 2 and Computer: 0.
+[2025-04-28]John roll paper and Computer roll rock.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 3 and Computer: 0.
+[2025-04-28]John wins the game!
+[2025-04-28]GAME OVER!
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]John roll rock and Computer roll sponge.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 1 and Computer: 0.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]John roll rock and Computer roll scissors.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 1 and Computer: 0.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]John roll rock and Computer roll water.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 0 and Computer: 1.
+[2025-04-28]John roll rock and Computer roll air.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 0 and Computer: 2.
+[2025-04-28]John roll rock and Computer roll paper.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 0 and Computer: 3.
+[2025-04-28]Computer wins the game!
+[2025-04-28]GAME OVER!
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]John roll paper and Computer roll rock.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 1 and Computer: 0.
+[2025-04-28]John roll rock and Computer roll fire.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 2 and Computer: 0.
+[2025-04-28]John roll scissors and Computer roll air.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 3 and Computer: 0.
+[2025-04-28]John wins the game!
+[2025-04-28]GAME OVER!
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]John roll rock and Computer roll scissors.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 1 and Computer: 0.
+[2025-04-28]John roll rock and Computer roll paper.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 1 and Computer: 1.
+[2025-04-28]John roll rock and Computer roll fire.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 2 and Computer: 1.
+[2025-04-28]John roll rock and Computer roll rock.
+[2025-04-28]This round was a tie!
+[2025-04-28]Score is John: 2 and Computer: 1.
+[2025-04-28]John roll rock and Computer roll water.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 2 and Computer: 2.
+[2025-04-28]John roll paper and Computer roll sponge.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 2 and Computer: 3.
+[2025-04-28][91mComputer wins the game!
+[2025-04-28]GAME OVER!
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]John roll rock and Computer roll rock.
+[2025-04-28]This round was a tie!
+[2025-04-28]Score is John: 0 and Computer: 0.
+[2025-04-28]John roll fire and Computer roll air.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 0 and Computer: 1.
+[2025-04-28]John roll scissors and Computer roll rock.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 0 and Computer: 2.
+[2025-04-28]John roll paper and Computer roll air.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 1 and Computer: 2.
+[2025-04-28]John roll sponge and Computer roll air.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 2 and Computer: 2.
+[2025-04-28]John roll scissors and Computer roll water.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 2 and Computer: 3.
+[2025-04-28][91mComputer wins the game!
+[2025-04-28]GAME OVER!
+[2025-04-28]App is starting up..... 
+[2025-04-28]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-28]John has logged in.
+[2025-04-28]New game starting between John vs Computer.
+[2025-04-28]John roll fire and Computer roll scissors.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 1 and Computer: 0.
+[2025-04-28]John roll rock and Computer roll fire.
+[2025-04-28]John takes the round!
+[2025-04-28]Score is John: 2 and Computer: 0.
+[2025-04-28]John roll scissors and Computer roll fire.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 2 and Computer: 1.
+[2025-04-28]John roll fire and Computer roll water.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 2 and Computer: 2.
+[2025-04-28]John roll sponge and Computer roll scissors.
+[2025-04-28]Computer takes the round!
+[2025-04-28]Score is John: 2 and Computer: 3.
+[2025-04-28][91mComputer wins the game!
+[2025-04-28]GAME OVER!
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]John roll air and Computer roll rock.
+[2025-04-29]John takes the round!
+[2025-04-29]Score is John: 1 and Computer: 0.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]JOhn has logged in.
+[2025-04-29]New game starting between JOhn vs Computer.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]JOhn has logged in.
+[2025-04-29]New game starting between JOhn vs Computer.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]John roll rock and Computer roll water.
+[2025-04-29]Computer takes the round!
+[2025-04-29]Score is John: 0 and Computer: 1.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]JOhn has logged in.
+[2025-04-29]New game starting between JOhn vs Computer.
+[2025-04-29]JOhn roll rock and Computer roll air.
+[2025-04-29]Computer takes the round!
+[2025-04-29]Score is JOhn: 0 and Computer: 1.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]John roll air and Computer roll air.
+[2025-04-29]This round was a tie!
+[2025-04-29]Score is John: 0 and Computer: 0.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]John roll sponge and Computer roll fire.
+[2025-04-29]Computer takes the round!
+[2025-04-29]Score is John: 0 and Computer: 1.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]John roll paper and Computer roll paper.
+[2025-04-29]This round was a tie!
+[2025-04-29]Score is John: 0 and Computer: 0.
+[2025-04-29]App is starting up..... 
+[2025-04-29]Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'air', 'water'] from rolls.json.
+[2025-04-29]John has logged in.
+[2025-04-29]New game starting between John vs Computer.
+[2025-04-29]John roll scissors and Computer roll sponge.
+[2025-04-29]John takes the round!
+[2025-04-29]Score is John: 1 and Computer: 0.
